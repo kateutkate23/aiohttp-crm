@@ -20,8 +20,8 @@ This is a simple educational backend project built with `aiohttp`, implementing 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/kateutkate23/aiohttp_crm.git
-   cd aiohttp_crm
+   git clone https://github.com/kateutkate23/aiohttp-crm.git
+   cd aiohttp-crm
    ```
 
 2. **Create and activate a virtual environment**:
